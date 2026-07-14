@@ -4,7 +4,7 @@ SRC_DIR="cursors_scalable"
 OUT_DIR="cursors"
 TMP_DIR=".tmp_pngs"
 DEFAULT_CURSOR="default"
-SIZES=(24 32 48 64)
+SIZES=(24 30 32 48 64 72)
 # 初期化
 rm -rf "$OUT_DIR" "$TMP_DIR"
 sleep 1

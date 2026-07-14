@@ -2,7 +2,7 @@
   {
     "hotspot_x": 4,
     "hotspot_y": 4,
-    "normal_size": 24,
+    "nominal_size": 24,
     "filename": "default.svg"
   }
 ]
