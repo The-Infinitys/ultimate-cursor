@@ -26,6 +26,20 @@
 
     <path
         d="
+        M 28 28
+        v -14
+        l -2 1
+        v 10
+        l -1 1
+        h -10
+        l -1 2
+        h 14
+        z
+        M 22 22
+        l -4 -10
+        l -1 5
+        l -5 1
+        z
         "
         fill="url(#gradient)"
         stroke="none"
