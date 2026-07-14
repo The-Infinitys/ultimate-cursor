@@ -1,8 +1,8 @@
 [
-    {
-        "filename": "bottom_left_corner.svg",
-        "hotspot_x": 5.15,
-        "hotspot_y": 26.85,
-        "nominal_size": 24
-    }
+  {
+    "filename": "bottom_left_corner.svg",
+    "hotspot_x": 4,
+    "hotspot_y": 28,
+    "nominal_size": 32
+  }
 ]
