@@ -1,16 +1,147 @@
-<svg id="svg11024" height="32" width="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <filter id="filter7078" color-interpolation-filters="sRGB">
-    <feGaussianBlur id="feGaussianBlur7080" stdDeviation=".657"/>
-  </filter>
-  <g id="g39231-3" transform="translate(-126.364 -794.362)">
-    <path id="path7444-6" d="m143.656 805.281c-.706.044-1.263.41-1.687.907-.756-.756-1.563-.663-1.813-.657-.937.057-1.556.69-1.937 1.469-.43-.26-.895-.477-1.438-.437h-.031c-1.454.13-2.449 1.438-2.219 2.875v.03l.25 1.657-.062.031c-.48.361-1.205.847-1.75 1.656-.545.81-.818 2.004-.406 3.313.449 1.429 1.292 2.917 2.25 4.094a8.4 8.4 0 0 0 1.53 1.468c.538.395 1.098.724 1.813.72l8.844-.032c.503 0 .968-.435 1-.938 0 0 1.908-3.251 1.344-11.312v-.031c-.19-2.166-.913-3.197-2.594-3.094h-.031c-.251.017-.431.197-.656.281-.271-1.154-1.15-2.081-2.407-2" filter="url(#filter7078)" opacity=".2"/>
-    <path id="path4236-1-58-5-6-0-3-1" d="m143.656 804.281c-.706.044-1.263.41-1.687.907-.756-.756-1.563-.663-1.813-.657-.937.057-1.556.69-1.937 1.469-.43-.26-.895-.477-1.438-.437h-.031c-1.454.13-2.449 1.438-2.219 2.875v.03l.25 1.657-.062.031c-.48.361-1.205.847-1.75 1.656-.545.81-.818 2.004-.406 3.313.449 1.429 1.292 2.917 2.25 4.094a8.4 8.4 0 0 0 1.53 1.468c.538.395 1.098.724 1.813.72l8.844-.032c.503 0 .968-.435 1-.938 0 0 1.908-3.251 1.344-11.312v-.031c-.19-2.166-.913-3.197-2.594-3.094h-.031c-.251.017-.431.197-.656.281-.271-1.154-1.15-2.08-2.407-2" fill="#fff"/>
-    <path id="path4236-1-58-5-6-0-2" d="m140.216 805.545c-.786.048-1.457.808-1.407 1.594l.097 1.392c.025.354-.305.428-.343.157l-.122-.862c-.107-.742-.846-1.336-1.594-1.281-.823.074-1.484.936-1.343 1.75l.527 3.299c.005.127-.03.781-.03.781l-.688-1.406c-1.005.756-2.465 1.723-1.793 3.863.797 2.533 3.178 5.584 4.636 5.574l8.844-.03c1.711-3.793 1.392-7.335 1.375-9.845l-.011-1.658c-.006-.95-.615-1.945-1.563-1.875a1.54 1.54 0 0 0 -1.375 1.156l-.176.94c-.053.28-.146.165-.125-.063l.198-2.158c.055-.848-.745-1.648-1.594-1.593-.733.045-1.377.703-1.406 1.437l-.167 1.502c-.039.35-.26.36-.281-.031l-.066-1.206c-.031-.796-.798-1.487-1.593-1.437"/>
-  </g>
-  <g id="g40166" transform="translate(-176 -794.362)">
-    <path id="path7456-7" d="m199.5 811.375a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13" filter="url(#filter7078)" opacity=".2"/>
-    <circle id="path5519-7-2-3-4" cx="199.5" cy="816.862" fill="#fff" r="6.5"/>
-    <path id="path5205-9" d="m196.265 812.393c-2.261 1.63-2.95 4.765-1.526 7.231a5.5 5.5 0 1 0 2.013-7.513c-.164.095-.336.173-.487.282m1.487 1.45a3.48 3.48 0 0 1 4.146.494l-5.792 3.343a3.48 3.48 0 0 1 1.646-3.837m-.646 5.57 5.792-3.344a3.48 3.48 0 0 1 -1.646 3.837 3.48 3.48 0 0 1 -4.146-.494" fill="#ed1515"/>
-  </g>
-  <path id="hotspot" d="m15.5-16.5h1v1h-1z" display="none" fill="#333" stroke-width="1.07568" transform="rotate(90)"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+    width="32"
+    height="32"
+    viewBox="0 0 32 32"
+    version="1.1"
+    id="svg10"
+    sodipodi:docname="openhand.svg"
+    inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:svg="http://www.w3.org/2000/svg"
+>
+    <sodipodi:namedview
+        id="namedview10"
+        pagecolor="#505050"
+        bordercolor="#eeeeee"
+        borderopacity="1"
+        inkscape:showpageshadow="0"
+        inkscape:pageopacity="0"
+        inkscape:pagecheckerboard="0"
+        inkscape:deskcolor="#505050"
+        showgrid="true"
+        inkscape:zoom="10.842363"
+        inkscape:cx="7.7935044"
+        inkscape:cy="10.329852"
+        inkscape:window-width="1280"
+        inkscape:window-height="720"
+        inkscape:window-x="0"
+        inkscape:window-y="0"
+        inkscape:window-maximized="1"
+        inkscape:current-layer="svg10"
+    >
+        <inkscape:grid
+            id="grid10"
+            units="px"
+            originx="0"
+            originy="0"
+            spacingx="1"
+            spacingy="1"
+            empcolor="#0099e5"
+            empopacity="0.30196078"
+            color="#0099e5"
+            opacity="0.14901961"
+            empspacing="5"
+            enabled="true"
+            visible="true"
+        />
+    </sodipodi:namedview>
+    <defs id="defs9">
+        <linearGradient id="gradient" x1="0" y1="0" x2="0.2" y2="1">
+            <stop offset="0%" stop-color="#f22" id="stop1" />
+            <stop offset="50%" stop-color="#ff0" id="stop2" />
+            <stop offset="60%" stop-color="#2f2" id="stop3" />
+            <stop offset="70%" stop-color="#0ff" id="stop4" />
+            <stop offset="90%" stop-color="#22f" id="stop5" />
+            <stop offset="100%" stop-color="#f0f" id="stop6" />
+        </linearGradient>
+        <filter
+            id="glow"
+            x="-0.27903094"
+            y="-0.30487885"
+            width="1.5580619"
+            height="1.6097577"
+        >
+            <feGaussianBlur
+                stdDeviation="1"
+                result="blur1"
+                id="feGaussianBlur6"
+            />
+            <feGaussianBlur
+                stdDeviation="2"
+                result="blur2"
+                id="feGaussianBlur7"
+            />
+            <feMerge id="feMerge9">
+                <feMergeNode in="blur1" id="feMergeNode7" />
+                <feMergeNode in="blur2" id="feMergeNode8" />
+                <feMergeNode in="SourceGraphic" id="feMergeNode9" />
+            </feMerge>
+        </filter>
+        <linearGradient
+            inkscape:collect="always"
+            xlink:href="#gradient"
+            id="linearGradient1"
+            x1="0.47141329"
+            y1="3.6192448"
+            x2="6.3702068"
+            y2="33.113212"
+            gradientTransform="matrix(0.61414816,0,0,0.62893629,6.9113519,4.3152466)"
+            gradientUnits="userSpaceOnUse"
+        />
+        <linearGradient
+            inkscape:collect="always"
+            xlink:href="#gradient"
+            id="linearGradient2"
+            x1="-5.9868773"
+            y1="-3.3139149"
+            x2="2.5878764"
+            y2="39.559853"
+            gradientTransform="matrix(1.0355983,0,0,0.96562539,0,-1)"
+            gradientUnits="userSpaceOnUse"
+        />
+
+        <linearGradient id="no-drop" x1="0" y1="0" x2="1" y2="0.2">
+            <stop offset="0%" stop-color="#f28" />
+            <stop offset="100%" stop-color="#f82" />
+        </linearGradient>
+    </defs>
+    <path
+        d="m 11.585176,8.2821232 -0.584228,3.3057298 v 2.644585 L 10.41672,12.249 9.8324918,10.926708 H 8.0798077 l -0.584228,5.289168 0.584228,4.628023 1.7526841,2.644584 2.3369122,1.322292 h 11.68456 L 25.02242,20.843899 V 12.910146 L 24.438192,8.9432692 22.101281,7.6209771 21.517052,11.587853 20.932824,7.290404 18.595912,6.959831 18.011684,11.587853 17.427455,6.959831 15.090544,7.290404 14.506316,11.587853 13.922088,7.6209771 Z"
+        fill="url(#gradient)"
+        stroke="none"
+        style="fill: url(#linearGradient2); filter: url(#glow)"
+        id="path9"
+    />
+    <path
+        d="m 11.585176,8.2821232 -0.584228,3.3057298 v 2.644585 L 10.41672,12.249 9.8324918,10.926708 H 8.0798077 l -0.584228,5.289168 0.584228,4.628023 1.7526841,2.644584 2.3369122,1.322292 h 11.68456 L 25.02242,20.843899 V 12.910146 L 24.438192,8.9432692 22.101281,7.6209771 21.517052,11.587853 20.932824,7.290404 18.595912,6.959831 18.011684,11.587853 17.427455,6.959831 15.090544,7.290404 14.506316,11.587853 13.922088,7.6209771 Z"
+        fill="#000000"
+        stroke="url(#gradient)"
+        stroke-width="0.621499"
+        id="path10"
+        sodipodi:nodetypes="cccccccccccccccccccccccc"
+        style="stroke: url(#linearGradient1)"
+    />
+    <path
+        d="
+            M 18 18
+            h 2
+            l 3 4
+            l 3 -4
+            h 2
+            l -4 6
+            l 4 6
+            h -2
+            l -3 -4
+            l -3 4
+            h -2
+            l 4 -6
+            z
+        "
+        stroke="none"
+        fill="url(#no-drop)"
+    />
 </svg>

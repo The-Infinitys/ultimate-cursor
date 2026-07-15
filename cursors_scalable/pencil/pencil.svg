@@ -1,9 +1,52 @@
-<svg id="svg11024" height="32" width="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <filter id="filter7078" color-interpolation-filters="sRGB">
-    <feGaussianBlur id="feGaussianBlur7080" stdDeviation=".657"/>
-  </filter>
-  <path id="path7428" d="m2.844 30.976c-.557-.098-.95-.74-.781-1.28l1.062-3.188c.04-.15.116-.29.219-.407l12.594-12.625a1 1 0 0 1 .593-.28c.305-.043.626.064.844.28l2.125 2.125c.384.372.384 1.066 0 1.438l-12.594 12.625a1 1 0 0 1 -.406.219l-3.187 1.062a1 1 0 0 1 -.47.031" filter="url(#filter7078)" opacity=".2"/>
-  <path id="path4801-6-4-9" d="m16.531 12.2a1 1 0 0 0 -.593.282l-12.594 12.625a1 1 0 0 0 -.219.406l-1.062 3.187a1 1 0 0 0 1.25 1.25l3.187-1.062a1 1 0 0 0 .406-.219l12.594-12.625a1 1 0 0 0 0-1.437l-2.125-2.125a1 1 0 0 0 -.844-.282" fill="#fff"/>
-  <path id="path4801-6-4" d="m16.656 13.2-12.593 12.625-1.063 3.188 3.188-1.063 12.592-12.625zm.031 1.438.688.687-1.313 1.313-.687-.688z"/>
-  <path id="hotspot" d="m29-4h1v1h-1z" display="none" fill="#333" stroke-width="1.07568" transform="rotate(90)"/>
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="32"
+    height="32"
+    viewBox="0 0 32 32"
+>
+    <defs>
+        <linearGradient id="gradient" x1="1" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#f22" />
+            <stop offset="25%" stop-color="#ff0" />
+            <stop offset="40%" stop-color="#2f2" />
+            <stop offset="50%" stop-color="#0ff" />
+            <stop offset="75%" stop-color="#22f" />
+            <stop offset="100%" stop-color="#f0f" />
+        </linearGradient>
+        <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+            <feGaussianBlur stdDeviation="1" result="blur1" />
+            <feGaussianBlur stdDeviation="2" result="blur2" />
+            <feMerge>
+                <feMergeNode in="blur1" />
+                <feMergeNode in="blur2" />
+                <feMergeNode in="SourceGraphic" />
+            </feMerge>
+        </filter>
+    </defs>
+
+    <path
+        d="
+        M 4 28
+        l 4 -8
+        l 16 -16
+        l 4 4
+        l -16 16
+        z
+        "
+        fill="url(#gradient)"
+        stroke="none"
+        style="filter: url(#glow)"
+    />
+    <path
+        d="
+        M 4 28
+        l 4 -8
+        l 16 -16
+        l 4 4
+        l -16 16
+        z"
+        fill="#000"
+        stroke="url(#gradient)"
+        stroke-width="1"
+    />
 </svg>

@@ -1,20 +1,145 @@
-<svg id="svg11024" height="32" width="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <filter id="filter7078" color-interpolation-filters="sRGB">
-    <feGaussianBlur id="feGaussianBlur7080" stdDeviation=".657"/>
-  </filter>
-  <g id="g15570-9" transform="translate(-20 -741.362)">
-    <path id="path15562-2" d="m23.93 745.112a.9.9 0 0 0 -.362.072.93.93 0 0 0 -.568.73l.002 16.497a1 1 0 0 0 1.299.865l3.076-1.273 1.697 2.27a2.265 2.265 0 0 0 4.092-1.696l-.402-2.805 3.074-1.275q.135-.068.248-.18a1 1 0 0 0 .059-1.35l-11.663-11.665a.92.92 0 0 0 -.552-.19" filter="url(#filter7078)" opacity=".2"/>
-    <path id="path15564-0" d="m23.93 744.112a.9.9 0 0 0 -.362.072.93.93 0 0 0 -.568.73l.002 16.497a1 1 0 0 0 1.299.865l3.076-1.273 1.697 2.27a2.265 2.265 0 0 0 4.092-1.696l-.402-2.805 3.074-1.275q.135-.068.248-.18a1 1 0 0 0 .059-1.35l-11.663-11.665a.92.92 0 0 0 -.552-.19" fill="#fff"/>
-    <path id="path15566-2" d="m24 745.235-.004 15.977 3.352-1.766 2.271 2.73a1.402 1.402 0 0 0 2.389-.988l-.326-3.539 3.619-1.119z"/>
-  </g>
-  <g id="g18023" transform="translate(-170 -741.362)">
-    <path id="path7458-4-3" d="m190.5 758.362a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13" filter="url(#filter7078)" opacity=".2"/>
-    <circle id="path5519-7-2" cx="190.501225" cy="763.862971" fill="#fff" r="6.500025"/>
-    <path id="path4169-06" d="m189.938 758.375c-2.774.282-4.938 2.652-4.938 5.5a5.5 5.5 0 1 0 5.5-5.5c-.19 0-.378-.019-.562 0" fill="#3daee9"/>
-    <g fill="#fff">
-      <path id="path5233" d="m188.67 761.715-.465-1.15c.543-1.466 4.101-1.835 4.972-.043.864 1.778-1.392 3.027-1.724 3.734-.463.988-.22 1.215-.22 1.215h-1.326s-.557-1.227 1.48-3.115c1.113-1.032-.752-3.062-2.718-.641"/>
-      <circle id="path5235" cx="190.603" cy="767.383" r=".939"/>
-    </g>
-  </g>
-  <path id="hotspot" d="m-5 4h1v1h-1z" display="none" fill="#333" stroke-width="1.18965" transform="scale(-1 1)"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg13"
+   sodipodi:docname="help.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview13"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="true"
+     inkscape:zoom="10.341437"
+     inkscape:cx="16.487071"
+     inkscape:cy="16.825515"
+     inkscape:window-width="1280"
+     inkscape:window-height="720"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg13">
+    <inkscape:grid
+       id="grid13"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs11">
+    <linearGradient
+       id="gradient"
+       x1="0"
+       y1="0"
+       x2="0.2"
+       y2="1">
+      <stop
+         offset="0%"
+         stop-color="#f22"
+         id="stop1" />
+      <stop
+         offset="50%"
+         stop-color="#ff0"
+         id="stop2" />
+      <stop
+         offset="60%"
+         stop-color="#2f2"
+         id="stop3" />
+      <stop
+         offset="70%"
+         stop-color="#0ff"
+         id="stop4" />
+      <stop
+         offset="90%"
+         stop-color="#22f"
+         id="stop5" />
+      <stop
+         offset="100%"
+         stop-color="#f0f"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       id="help"
+       x1="34.5"
+       y1="9.333333"
+       x2="49.5"
+       y2="20.333334"
+       gradientTransform="matrix(0.66666667,0,0,1.5,-6,0)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#22f"
+         id="stop7" />
+      <stop
+         offset="100%"
+         stop-color="#f2f"
+         id="stop8" />
+    </linearGradient>
+    <filter
+       id="glow"
+       x="-0.6"
+       y="-0.3"
+       width="2.2"
+       height="1.6">
+      <feGaussianBlur
+         stdDeviation="1"
+         result="blur1"
+         id="feGaussianBlur8" />
+      <feGaussianBlur
+         stdDeviation="2"
+         result="blur2"
+         id="feGaussianBlur9" />
+      <feMerge
+         id="feMerge11">
+        <feMergeNode
+           in="blur1"
+           id="feMergeNode9" />
+        <feMergeNode
+           in="blur2"
+           id="feMergeNode10" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode11" />
+      </feMerge>
+    </filter>
+  </defs>
+  <path
+     d="         M4 4         v 20         l 8 4         l 4 -8         z         "
+     fill="url(#gradient)"
+     stroke="none"
+     style="filter: url(#glow)"
+     id="path11" />
+  <path
+     d="         M4 4         v 20         l 8 4         l 4 -8         z         "
+     fill="#000"
+     stroke="url(#gradient)"
+     stroke-width="1"
+     id="path12" />
+  <path
+     d="m 24,14 3,3 v 4 l -4,4 v 2 l -2,1 v -4 l 4,-4 v -2 l -2,-2 h -2 l -2,2 v 3 l -2,-1 v -3 l 3,-3 z m -1,15 v 1 l -0.5,0.5 h -1 L 21,30 v -1 l 0.5,-0.5 h 1 z"
+     stroke="none"
+     fill="url(#help)"
+     id="path13"
+     style="fill:url(#help)"
+     sodipodi:nodetypes="cccccccccccccccccccccccccc" />
 </svg>
