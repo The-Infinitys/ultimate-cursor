@@ -1,10 +1,122 @@
-<svg id="svg11024" height="32" width="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <filter id="filter7078" color-interpolation-filters="sRGB">
-    <feGaussianBlur id="feGaussianBlur7080" stdDeviation=".657"/>
-  </filter>
-  <path id="path11402" d="m3.93 3.75a.9.9 0 0 0 -.362.072.93.93 0 0 0 -.568.73l.002 16.497a1 1 0 0 0 1.299.865l3.076-1.273 1.697 2.27a2.265 2.265 0 0 0 4.092-1.696l-.402-2.805 3.074-1.275q.135-.068.248-.18a1 1 0 0 0 .059-1.35l-11.663-11.665a.92.92 0 0 0 -.552-.189" filter="url(#filter7078)" opacity=".2"/>
-  <path id="path11404" d="m3.93 2.75a.9.9 0 0 0 -.362.072.93.93 0 0 0 -.568.73l.002 16.497a1 1 0 0 0 1.299.865l3.076-1.273 1.697 2.27a2.265 2.265 0 0 0 4.092-1.696l-.402-2.805 3.074-1.275q.135-.068.248-.18a1 1 0 0 0 .059-1.35l-11.663-11.665a.92.92 0 0 0 -.552-.189"/>
-  <path id="path5285" d="m7 8v2h3.63l-2-2zm0 3v2h6.63l-2-2zm0 3v2h6.115l2.686-.832-1.168-1.168z" fill="#3daee9"/>
-  <path id="path1347" d="m3.93 2.75a.9.9 0 0 0 -.362.072.93.93 0 0 0 -.568.73l.002 16.497a1 1 0 0 0 1.299.865l3.076-1.273 1.697 2.27a2.265 2.265 0 0 0 4.092-1.696l-.402-2.805 3.074-1.275q.135-.068.248-.18a1 1 0 0 0 .059-1.35l-11.663-11.665a.92.92 0 0 0 -.552-.189m.07 1.122 11.3 11.295-3.618 1.121.326 3.537a1.401 1.401 0 0 1 -2.389.988l-2.271-2.73-3.352 1.766z" fill="#fff"/>
-  <path id="hotspot" d="m4-5h1v1h-1z" display="none" fill="#333" stroke-width="1.07568" transform="rotate(90)"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="context-menu.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="true"
+     inkscape:zoom="9.674897"
+     inkscape:cx="18.656529"
+     inkscape:cy="21.602297"
+     inkscape:window-width="1280"
+     inkscape:window-height="720"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10">
+    <inkscape:grid
+       id="grid10"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs9">
+    <linearGradient
+       id="gradient"
+       x1="0"
+       y1="0"
+       x2="0.2"
+       y2="1">
+      <stop
+         offset="0%"
+         stop-color="#f22"
+         id="stop1" />
+      <stop
+         offset="50%"
+         stop-color="#ff0"
+         id="stop2" />
+      <stop
+         offset="60%"
+         stop-color="#2f2"
+         id="stop3" />
+      <stop
+         offset="70%"
+         stop-color="#0ff"
+         id="stop4" />
+      <stop
+         offset="90%"
+         stop-color="#22f"
+         id="stop5" />
+      <stop
+         offset="100%"
+         stop-color="#f0f"
+         id="stop6" />
+    </linearGradient>
+    <filter
+       id="glow"
+       x="-0.6"
+       y="-0.3"
+       width="2.2"
+       height="1.6">
+      <feGaussianBlur
+         stdDeviation="1"
+         result="blur1"
+         id="feGaussianBlur6" />
+      <feGaussianBlur
+         stdDeviation="2"
+         result="blur2"
+         id="feGaussianBlur7" />
+      <feMerge
+         id="feMerge9">
+        <feMergeNode
+           in="blur1"
+           id="feMergeNode7" />
+        <feMergeNode
+           in="blur2"
+           id="feMergeNode8" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode9" />
+      </feMerge>
+    </filter>
+  </defs>
+  <path
+     d="         M4 4         v 20         l 8 4         l 4 -8         z         "
+     fill="url(#gradient)"
+     stroke="none"
+     style="filter: url(#glow)"
+     id="path9" />
+  <path
+     d="m 4,4 v 20 l 8,4 4,-8 -3,-4 H 8.5 13 l -1.5,-2 h -4 4 L 10,12 H 6.5 10 Z"
+     fill="#000000"
+     stroke="url(#gradient)"
+     stroke-width="1"
+     id="path10"
+     sodipodi:nodetypes="cccccccccccccc" />
 </svg>
