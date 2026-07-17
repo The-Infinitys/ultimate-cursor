@@ -46,8 +46,12 @@
         l 2 5
         l -2 5
         z
-        M 16 12 a 4 4 0 1 0 0.001 0 z
-
+        M 16 13
+        l -3 3
+        l 3 3
+        l 3 -3
+        l -3 -3
+        z
         "
         fill="url(#gradient)"
         stroke="none"
@@ -76,8 +80,12 @@
         l 2 5
         l -2 5
         z
-        M 16 12 a 4 4 0 1 0 0.001 0 z
-        "
+        M 16 13
+        l -3 3
+        l 3 3
+        l 3 -3
+        l -3 -3
+        z"
         fill="#000"
         stroke="url(#gradient)"
         stroke-width="1"

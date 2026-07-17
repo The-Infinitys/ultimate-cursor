@@ -26,11 +26,15 @@
 
     <path
         d="
-
         M 4 28
         h 24
         l -2 -2
         h -20
+        z
+        M 16 24
+        l -4 -8
+        l 4 3
+        l 4 -3
         z
         "
         fill="url(#gradient)"
