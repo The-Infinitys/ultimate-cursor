@@ -9,40 +9,40 @@ AddReg    = Scheme.Reg
 Scheme.Cur = 10,"Cursors\%CUR_DIR%"
 
 [Scheme.Reg]
-HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\Cursors\%CUR_DIR%\%arrow%",%10%\Cursors\%CUR_DIR%\%help%",%10%\Cursors\%CUR_DIR%\%apprunning%",%10%\Cursors\%CUR_DIR%\%wait%",%10%\Cursors\%CUR_DIR%\%cross%",%10%\Cursors\%CUR_DIR%\%ibeam%",%10%\Cursors\%CUR_DIR%\%nwpen%",%10%\Cursors\%CUR_DIR%\%no%",%10%\Cursors\%CUR_DIR%\%size_ns%",%10%\Cursors\%CUR_DIR%\%size_we%",%10%\Cursors\%CUR_DIR%\%size_nwse%",%10%\Cursors\%CUR_DIR%\%size_nesw%",%10%\Cursors\%CUR_DIR%\%size_all%",%10%\Cursors\%CUR_DIR%\%uparrow%",%10%\Cursors\%CUR_DIR%\%hand%"
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\Cursors\%CUR_DIR%\%pointer%",%10%\Cursors\%CUR_DIR%\%help%",%10%\Cursors\%CUR_DIR%\%work%",%10%\Cursors\%CUR_DIR%\%busy%",%10%\Cursors\%CUR_DIR%\%cross%",%10%\Cursors\%CUR_DIR%\%text%",%10%\Cursors\%CUR_DIR%\%hand%",%10%\Cursors\%CUR_DIR%\%unavailiable%",%10%\Cursors\%CUR_DIR%\%vert%",%10%\Cursors\%CUR_DIR%\%horz%",%10%\Cursors\%CUR_DIR%\%dgn1%",%10%\Cursors\%CUR_DIR%\%dgn2%",%10%\Cursors\%CUR_DIR%\%move%",%10%\Cursors\%CUR_DIR%\%alternate%",%10%\Cursors\%CUR_DIR%\%link%"
 
 [Scheme.Cur]
-%arrow%
+%pointer%
 %help%
-%apprunning%
-%wait%
+%work%
+%busy%
 %cross%
-%ibeam%
-%nwpen%
-%no%
-%size_ns%
-%size_we%
-%size_nwse%
-%size_nesw%
-%size_all%
-%uparrow%
+%text%
 %hand%
+%unavailiable%
+%vert%
+%horz%
+%dgn1%
+%dgn2%
+%move%
+%alternate%
+%link%
 
 [Strings]
-CUR_DIR     = "BeyondTheInfinite"
-SCHEME_NAME = "Beyond The Infinite"
-arrow       = "arrow.cur"
-help        = "help.cur"
-apprunning  = "progress.ani"
-wait        = "wait.ani"
-cross       = "crosshair.cur"
-ibeam       = "ibeam.cur"
-nwpen       = "pencil.cur"
-no          = "not-allowed.cur"
-size_ns     = "size_ver.cur"
-size_we     = "size_hor.cur"
-size_nwse   = "size_fdiag.cur"
-size_nesw   = "size_bdiag.cur"
-size_all    = "size_all.cur"
-uparrow     = "up-arrow.cur"
-hand        = "pointer.cur"
+CUR_DIR       = "BeyondTheInfinite"
+SCHEME_NAME   = "Beyond The Infinite"
+pointer       = "default.cur"
+help          = "help.cur"
+work          = "progress.cur"
+busy          = "wait.cur"
+cross         = "crosshair.cur"
+text          = "text.cur"
+hand          = "pencil.cur"
+unavailiable  = "not-allowed.cur"
+vert          = "size_ver.cur"
+horz          = "size_hor.cur"
+dgn1          = "size_fdiag.cur"
+dgn2          = "size_bdiag.cur"
+move          = "fleur.cur"
+alternate     = "up-arrow.cur"
+link          = "pointer.cur"
