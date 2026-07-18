@@ -183,3 +183,54 @@ done
 
 rm -rf "$TMP_DIR"
 echo "Windows build complete. Check the '$OUT_DIR' directory!"
+
+cat << 'EOF' > windows/install.inf
+[Version]
+Signature="$Windows NT$"
+
+[DefaultInstall]
+CopyFiles = Scheme.Cur
+AddReg    = Scheme.Reg
+
+[DestinationDirs]
+Scheme.Cur = 10,"Cursors\%CUR_DIR%"
+
+[Scheme.Reg]
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\Cursors\%CUR_DIR%\%arrow%",%10%\Cursors\%CUR_DIR%\%help%",%10%\Cursors\%CUR_DIR%\%apprunning%",%10%\Cursors\%CUR_DIR%\%wait%",%10%\Cursors\%CUR_DIR%\%cross%",%10%\Cursors\%CUR_DIR%\%ibeam%",%10%\Cursors\%CUR_DIR%\%nwpen%",%10%\Cursors\%CUR_DIR%\%no%",%10%\Cursors\%CUR_DIR%\%size_ns%",%10%\Cursors\%CUR_DIR%\%size_we%",%10%\Cursors\%CUR_DIR%\%size_nwse%",%10%\Cursors\%CUR_DIR%\%size_nesw%",%10%\Cursors\%CUR_DIR%\%size_all%",%10%\Cursors\%CUR_DIR%\%uparrow%",%10%\Cursors\%CUR_DIR%\%hand%"
+
+[Scheme.Cur]
+%arrow%
+%help%
+%apprunning%
+%wait%
+%cross%
+%ibeam%
+%nwpen%
+%no%
+%size_ns%
+%size_we%
+%size_nwse%
+%size_nesw%
+%size_all%
+%uparrow%
+%hand%
+
+[Strings]
+CUR_DIR     = "BeyondTheInfinite"
+SCHEME_NAME = "Beyond The Infinite"
+arrow       = "arrow.cur"
+help        = "help.cur"
+apprunning  = "progress.ani"
+wait        = "wait.ani"
+cross       = "crosshair.cur"
+ibeam       = "ibeam.cur"
+nwpen       = "pencil.cur"
+no          = "not-allowed.cur"
+size_ns     = "size_ver.cur"
+size_we     = "size_hor.cur"
+size_nwse   = "size_fdiag.cur"
+size_nesw   = "size_bdiag.cur"
+size_all    = "size_all.cur"
+uparrow     = "up-arrow.cur"
+hand        = "pointer.cur"
+EOF
